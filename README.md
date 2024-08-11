@@ -1,4 +1,4 @@
-# 👋 Welcome to Namdev Rathod GitHub Profile
+# 👋 Welcome to DevOps With Namdev
 
 Subscribe to the YouTube Channel - https://www.youtube.com/@namdev.devops
 ![image](https://github.com/user-attachments/assets/e81682e2-714d-4b50-a341-0ad69404cd6e)
