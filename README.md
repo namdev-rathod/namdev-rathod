@@ -47,9 +47,9 @@ Throughout my career, I have had the privilege of working on diverse projects, e
 ## 📂 Portfolio
 Explore some of my key projects and contributions:
 
-- **[Project 1: Cloud Infrastructure Automation](https://github.com/namdev-rathod/DevOps-Projects/tree/main/AWS)**: Automated infrastructure provisioning using Terraform for a multi-cloud environment.
-- **[Project 2: Terraform Project](https://github.com/namdev-rathod/DevOps-Projects/tree/main/Terraform)**: Developed a complete CI/CD pipeline using Jenkins and Kubernetes for a microservices-based architecture.
-- **[Project 3: Kubernetes Cluster Setup](https://github.com/namdev-rathod/Kubernetes)**: Implemented a robust monitoring solution using Prometheus and Grafana for real-time analytics.
+- **[Project 1: Cloud Secure S3 Hosting with CloudFront](https://github.com/namdev-rathod/DevOps-Projects/tree/main/AWS)**
+- **[Project 2: Terraform Project](https://github.com/namdev-rathod/DevOps-Projects/tree/main/Terraform)**
+- **[Project 3: Kubernetes Cluster Setup](https://github.com/namdev-rathod/Kubernetes)**
 
 💼 **Industry Impact**:
   - Successfully led multiple DevOps transformations, enabling faster delivery cycles and improved software quality.
@@ -63,14 +63,13 @@ I am open to new opportunities, collaborations, and discussions. Feel free to re
 I'm always eager to discuss new opportunities, share knowledge, and collaborate on exciting projects. Let's connect!
 
 - 👔 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/namdevrathod/)
-- 🐙 **GitHub**: [DevOps Projects]https://github.com/namdev-rathod
+- 🐙 **GitHub**: [DevOps Projects](https://github.com/namdev-rathod)
 - 📧 **Email**: [Contact me](mailto:support@devopswithnamdev.com)
-- 🌐 **Website**: [Visit my portfolio](http://devopswithnamdev.com/)
+- 🌐 **Website**: [Official Website](http://devopswithnamdev.com/)
 - 📹 **YouTube**: [Subscribe to my channel](https://www.youtube.com/@namdev.devops)
 - 📱 **WhatsApp**: [+91 7249 0590 06](https://wa.me/7249059006)
 
 ---
-
 
 ### 🤝 Support & Collaboration
 If you're looking for an experienced DevOps engineer to help with your projects, or if you need expert guidance on adopting DevOps practices, feel free to reach out. I'm available for consulting, training, and speaking engagements.
