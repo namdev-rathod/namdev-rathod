@@ -54,10 +54,10 @@ Explore some of my key projects and contributions:
 ## 🌐 Connect With Me
 I’m always excited to connect with like-minded professionals and explore new opportunities. Feel free to reach out!
 
-- 🔗 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/your-profile)
-- 📧 **Email**: [Contact me](mailto:your-email@example.com)
-- 📹 **YouTube**: [Subscribe to my channel](https://www.youtube.com/@your-channel)
-- 🌐 **Website**: [Visit my portfolio](https://your-website.com)
+- 🔗 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/namdevrathod/)
+- 📧 **Email**: [Contact me](mailto:support@devopswithnamdev.com)
+- 📹 **YouTube**: [Subscribe to my channel](https://www.youtube.com/@namdev.devops)
+- 🌐 **Website**: [Visit my portfolio](http://devopswithnamdev.com/)
 
 ---
 
