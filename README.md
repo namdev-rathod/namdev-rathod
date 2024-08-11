@@ -1,6 +1,7 @@
 # 👋 Welcome to DevOps With Namdev
 
-Subscribe to the YouTube Channel - https://www.youtube.com/@namdev.devops
+📹 **YouTube**: [Subscribe to my channel](https://www.youtube.com/@namdev.devops)
+
 ![image](https://github.com/user-attachments/assets/e81682e2-714d-4b50-a341-0ad69404cd6e)
 
 
@@ -52,12 +53,13 @@ Explore some of my key projects and contributions:
 - **[Project 3: Monitoring & Logging System](Link to Project Repository)**: Implemented a robust monitoring solution using Prometheus and Grafana for real-time analytics.
 
 ## 🌐 Connect With Me
-I’m always excited to connect with like-minded professionals and explore new opportunities. Feel free to reach out!
 
-- 🔗 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/namdevrathod/)
+
+- 👔 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/namdevrathod/)
+- 🐙 **GitHub**: [DevOps Projects]https://github.com/namdev-rathod
 - 📧 **Email**: [Contact me](mailto:support@devopswithnamdev.com)
-- 📹 **YouTube**: [Subscribe to my channel](https://www.youtube.com/@namdev.devops)
 - 🌐 **Website**: [Visit my portfolio](http://devopswithnamdev.com/)
+- 📹 **YouTube**: [Subscribe to my channel](https://www.youtube.com/@namdev.devops)
 
 ---
 
@@ -67,9 +69,6 @@ Thank you for visiting my GitHub profile! Let's build something incredible toget
 
 
 
-### 🎯 Portfolio
-Check out some of my key projects and contributions:
-
 
 ### 📬 Get In Touch
 
@@ -77,11 +76,7 @@ I am open to new opportunities, collaborations, and discussions. Feel free to re
 
 I'm always eager to discuss new opportunities, share knowledge, and collaborate on exciting projects. Let's connect!
 
-- 👔 **LinkedIn**: [Your LinkedIn Profile URL]
-- 🐙 **GitHub**: [Your GitHub Profile URL]
-- 📧 **Email**: [Your Email Address]
-- 🌐 **Website**: [Your Portfolio Website URL]
-- 📹 **YouTube**: [Your YouTube Channel URL]
+
 
 ### 🤝 Support & Collaboration
 If you're looking for an experienced DevOps engineer to help with your projects, or if you need expert guidance on adopting DevOps practices, feel free to reach out. I'm available for consulting, training, and speaking engagements.
