@@ -1,3 +1,76 @@
+# 👋 Welcome to Namdev Rathod GitHub Profile
+
+Subscribe to the YouTube Channel - https://www.youtube.com/@namdev.devops
+![image](https://github.com/user-attachments/assets/e81682e2-714d-4b50-a341-0ad69404cd6e)
+
+
+## 🧑‍💻 About Me
+I am a seasoned **DevOps Engineer** with extensive experience in designing, automating, and optimizing modern infrastructures. My journey in the IT industry has been marked by a passion for continuous improvement, seamless integration, and driving business success through reliable and scalable solutions.
+
+- 🔥 **Years of Experience**: Over [X] years of hands-on experience in the IT and DevOps field.
+- 🌐 **Expertise**: Specializing in cloud computing, CI/CD pipelines, automation, container orchestration, and infrastructure as code (IaC).
+- 🎯 **Mission**: To bridge the gap between development and operations, ensuring the delivery of high-quality software at a faster pace.
+
+## 🏆 Industry Expertise
+Throughout my career, I have had the privilege of working on diverse projects, each contributing to my depth of knowledge and skills. Here’s a glimpse of my industry expertise:
+
+- **Cloud Platforms**: AWS, Azure, Google Cloud
+- **Containerization**: Docker, Kubernetes
+- **CI/CD Pipelines**: Jenkins, GitLab CI, GitHub Actions
+- **Infrastructure as Code**: Terraform, CloudFormation
+- **Monitoring & Logging**: Prometheus, Grafana, ELK Stack
+
+## 🔧 DevOps Tools & Technologies
+
+<div align="center">
+    <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
+    <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square" />
+    <img src="https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white&style=flat-square" />
+    <img src="https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat-square" />
+    <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square" />
+    <img src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat-square" />
+    <img src="https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white&style=flat-square" />
+    <img src="https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white&style=flat-square" />
+    <img src="https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white&style=flat-square" />
+    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square" />
+</div>
+
+## 📂 Portfolio
+Explore some of my key projects and contributions:
+
+- **[Project 1: Cloud Infrastructure Automation](Link to Project Repository)**: Automated infrastructure provisioning using Terraform for a multi-cloud environment.
+- **[Project 2: CI/CD Pipeline for Microservices](Link to Project Repository)**: Developed a complete CI/CD pipeline using Jenkins and Kubernetes for a microservices-based architecture.
+- **[Project 3: Monitoring & Logging System](Link to Project Repository)**: Implemented a robust monitoring solution using Prometheus and Grafana for real-time analytics.
+
+## 🌐 Connect With Me
+I’m always excited to connect with like-minded professionals and explore new opportunities. Feel free to reach out!
+
+- 🔗 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/your-profile)
+- 📧 **Email**: [Contact me](mailto:your-email@example.com)
+- 📹 **YouTube**: [Subscribe to my channel](https://www.youtube.com/@your-channel)
+- 🌐 **Website**: [Visit my portfolio](https://your-website.com)
+
+---
+
+Thank you for visiting my GitHub profile! Let's build something incredible together. 🚀
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 👋 Hi, I'm [Your Name]!
 
 ### About Me
