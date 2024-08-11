@@ -67,7 +67,7 @@ I'm always eager to discuss new opportunities, share knowledge, and collaborate 
 - 📧 **Email**: [Contact me](mailto:support@devopswithnamdev.com)
 - 🌐 **Website**: [Visit my portfolio](http://devopswithnamdev.com/)
 - 📹 **YouTube**: [Subscribe to my channel](https://www.youtube.com/@namdev.devops)
-- 📱 **WhatsApp/Phone**: [+91 7249 0590 06](https://wa.me/7249059006)
+- 📱 **WhatsApp**: [+91 7249 0590 06](https://wa.me/7249059006)
 
 ---
 
