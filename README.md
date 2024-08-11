@@ -47,9 +47,9 @@ Throughout my career, I have had the privilege of working on diverse projects, e
 ## 📂 Portfolio
 Explore some of my key projects and contributions:
 
-- **[Project 1: Cloud Infrastructure Automation](Link to Project Repository)**: Automated infrastructure provisioning using Terraform for a multi-cloud environment.
-- **[Project 2: CI/CD Pipeline for Microservices](Link to Project Repository)**: Developed a complete CI/CD pipeline using Jenkins and Kubernetes for a microservices-based architecture.
-- **[Project 3: Monitoring & Logging System](Link to Project Repository)**: Implemented a robust monitoring solution using Prometheus and Grafana for real-time analytics.
+- **[Project 1: Cloud Infrastructure Automation](https://github.com/namdev-rathod/DevOps-Projects/tree/main/AWS)**: Automated infrastructure provisioning using Terraform for a multi-cloud environment.
+- **[Project 2: Terraform Project](https://github.com/namdev-rathod/DevOps-Projects/tree/main/Terraform)**: Developed a complete CI/CD pipeline using Jenkins and Kubernetes for a microservices-based architecture.
+- **[Project 3: Kubernetes Cluster Setup](https://github.com/namdev-rathod/Kubernetes)**: Implemented a robust monitoring solution using Prometheus and Grafana for real-time analytics.
 
 💼 **Industry Impact**:
   - Successfully led multiple DevOps transformations, enabling faster delivery cycles and improved software quality.
