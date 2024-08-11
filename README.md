@@ -29,7 +29,7 @@ Throughout my career, I have had the privilege of working on diverse projects, e
   - 📈 **Monitoring & Logging**: Implementing robust monitoring solutions with Prometheus, Grafana, ELK Stack, and CloudWatch.
 
 - 🚀 **Experience**:
-- 
+
 ## 🔧 DevOps Tools & Technologies
 
 <div align="center">
@@ -66,9 +66,6 @@ I'm always eager to discuss new opportunities, share knowledge, and collaborate 
 
 ---
 
-Thank you for visiting my GitHub profile! Let's build something incredible together. 🚀
-
-
 
 ### 🤝 Support & Collaboration
 If you're looking for an experienced DevOps engineer to help with your projects, or if you need expert guidance on adopting DevOps practices, feel free to reach out. I'm available for consulting, training, and speaking engagements.
@@ -85,4 +82,4 @@ Thank you for visiting my profile! Let's build something amazing together. 🚀
   - Collaborated with cross-functional teams to enhance DevOps practices, leading to significant improvements in development and operational efficiency.
 
 
-Thank you for visiting my GitHub profile! 🙌
+Thank you for visiting my GitHub profile! Let's build something incredible together. 🚀 🙌
