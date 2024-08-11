@@ -64,7 +64,7 @@ I'm always eager to discuss new opportunities, share knowledge, and collaborate 
 
 - 👔 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/namdevrathod/)
 - 🐙 **GitHub**: [DevOps Projects](https://github.com/namdev-rathod)
-- 🌐 **Website**: [Official Website](http://devopswithnamdev.com/)
+- 🌐 **Website**: [Official Website](https://devopswithnamdev.com/)
 - 📹 **YouTube**: [Subscribe to my channel](https://www.youtube.com/@namdev.devops)
 - 📧 **Email**: support@devopswithnamdev.com
 - 📱 **WhatsApp**: [+91 7249 0590 06](https://wa.me/7249059006)
@@ -74,6 +74,6 @@ I'm always eager to discuss new opportunities, share knowledge, and collaborate 
 ### 🤝 Support & Collaboration
 If you're looking for an experienced DevOps engineer to help with your projects, or if you need expert guidance on adopting DevOps practices, feel free to reach out. I'm available for consulting, training, and speaking engagements.
 
-- [Buy Me a Coffee](buymeacoffee.com/namdevrathod)
+- [Buy Me a Coffee](https://buymeacoffee.com/namdevrathod)
 
 Thank you for visiting my GitHub profile! Let's build something incredible together. 🚀 🙌
