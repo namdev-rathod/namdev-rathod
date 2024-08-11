@@ -54,6 +54,9 @@ Explore some of my key projects and contributions:
 
 ## 🌐 Connect With Me
 
+I am open to new opportunities, collaborations, and discussions. Feel free to reach out if you’d like to connect or if you have a project in mind that we could work on together!
+
+I'm always eager to discuss new opportunities, share knowledge, and collaborate on exciting projects. Let's connect!
 
 - 👔 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/namdevrathod/)
 - 🐙 **GitHub**: [DevOps Projects]https://github.com/namdev-rathod
@@ -67,17 +70,6 @@ Thank you for visiting my GitHub profile! Let's build something incredible toget
 
 
 
-
-
-
-### 📬 Get In Touch
-
-I am open to new opportunities, collaborations, and discussions. Feel free to reach out if you’d like to connect or if you have a project in mind that we could work on together!
-
-I'm always eager to discuss new opportunities, share knowledge, and collaborate on exciting projects. Let's connect!
-
-
-
 ### 🤝 Support & Collaboration
 If you're looking for an experienced DevOps engineer to help with your projects, or if you need expert guidance on adopting DevOps practices, feel free to reach out. I'm available for consulting, training, and speaking engagements.
 
@@ -85,11 +77,6 @@ Thank you for visiting my profile! Let's build something amazing together. 🚀
 
 - [Buy Me a Coffee](Your Buy Me a Coffee URL)
 - [Sponsor Me on GitHub](Your GitHub Sponsor URL)
-
-### Support & Collaboration
-If you're looking for an experienced DevOps engineer to help with your projects, or if you need expert guidance on adopting DevOps practices, feel free to reach out. I'm available for consulting, training, and speaking engagements.
-
-Thank you for visiting my profile! Let's build something amazing together. 🚀
 
 
 - 💼 **Industry Impact**:
