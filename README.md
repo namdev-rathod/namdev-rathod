@@ -21,14 +21,13 @@ Throughout my career, I have had the privilege of working on diverse projects, e
 - **Infrastructure as Code**: Terraform, CloudFormation & CDK
 - **Monitoring & Logging**: Prometheus, Grafana, ELK Stack, Nagios & CloudWatch
 
-- 🌟 **Core Skills**:
+🌟 **Core Skills**:
   - 🛠️ **Automation**: Expertise in scripting and automating infrastructure and deployment processes using tools like Terraform, Ansible, and Jenkins.
   - 🐳 **Containerization**: Proficient in Docker, Kubernetes, and container orchestration for scalable applications.
   - ☁️ **Cloud Computing**: Deep experience with cloud infrastructure, managing resources, and cost optimization on AWS, Azure, and Google Cloud.
   - 🔄 **CI/CD**: Building and managing CI/CD pipelines using Jenkins, GitLab CI, and GitHub Actions.
   - 📈 **Monitoring & Logging**: Implementing robust monitoring solutions with Prometheus, Grafana, ELK Stack, and CloudWatch.
 
-- 🚀 **Experience**:
 
 ## 🔧 DevOps Tools & Technologies
 
@@ -52,6 +51,11 @@ Explore some of my key projects and contributions:
 - **[Project 2: CI/CD Pipeline for Microservices](Link to Project Repository)**: Developed a complete CI/CD pipeline using Jenkins and Kubernetes for a microservices-based architecture.
 - **[Project 3: Monitoring & Logging System](Link to Project Repository)**: Implemented a robust monitoring solution using Prometheus and Grafana for real-time analytics.
 
+💼 **Industry Impact**:
+  - Successfully led multiple DevOps transformations, enabling faster delivery cycles and improved software quality.
+  - Spearheaded cloud migration projects, reducing operational costs and improving system reliability.
+  - Collaborated with cross-functional teams to enhance DevOps practices, leading to significant improvements in development and operational efficiency.
+
 ## 🌐 Connect With Me
 
 I am open to new opportunities, collaborations, and discussions. Feel free to reach out if you’d like to connect or if you have a project in mind that we could work on together!
@@ -63,6 +67,7 @@ I'm always eager to discuss new opportunities, share knowledge, and collaborate 
 - 📧 **Email**: [Contact me](mailto:support@devopswithnamdev.com)
 - 🌐 **Website**: [Visit my portfolio](http://devopswithnamdev.com/)
 - 📹 **YouTube**: [Subscribe to my channel](https://www.youtube.com/@namdev.devops)
+- 📱 **WhatsApp/Phone**: [+91 7249 0590 06](https://wa.me/7249059006)
 
 ---
 
@@ -70,16 +75,6 @@ I'm always eager to discuss new opportunities, share knowledge, and collaborate 
 ### 🤝 Support & Collaboration
 If you're looking for an experienced DevOps engineer to help with your projects, or if you need expert guidance on adopting DevOps practices, feel free to reach out. I'm available for consulting, training, and speaking engagements.
 
-Thank you for visiting my profile! Let's build something amazing together. 🚀
-
-- [Buy Me a Coffee](Your Buy Me a Coffee URL)
-- [Sponsor Me on GitHub](Your GitHub Sponsor URL)
-
-
-- 💼 **Industry Impact**:
-  - Successfully led multiple DevOps transformations, enabling faster delivery cycles and improved software quality.
-  - Spearheaded cloud migration projects, reducing operational costs and improving system reliability.
-  - Collaborated with cross-functional teams to enhance DevOps practices, leading to significant improvements in development and operational efficiency.
-
+- [Buy Me a Coffee](buymeacoffee.com/namdevrathod)
 
 Thank you for visiting my GitHub profile! Let's build something incredible together. 🚀 🙌
