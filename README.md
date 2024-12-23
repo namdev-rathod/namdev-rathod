@@ -124,9 +124,7 @@ I'm always eager to discuss new opportunities, share knowledge, and collaborate 
 
 - 👔 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/namdevrathod/)
 - 🐙 **GitHub**: [DevOps Projects](https://github.com/namdev-rathod)
-- 🌐 **Website**: [Official Website](https://uxito.net/)
 - 📹 **YouTube**: [Subscribe to my channel](https://www.youtube.com/@namdev.devops)
-- 📧 **Email**: support@uxito.net
 - 📱 **WhatsApp**: [+91 7276 1219 83](https://wa.me/7276121983)
 
 ---
