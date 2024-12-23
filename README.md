@@ -71,9 +71,16 @@ I'm always eager to discuss new opportunities, share knowledge, and collaborate 
 
 ---
 
-### 🤝 Support & Collaboration
-If you're looking for an experienced DevOps engineer to help with your projects, or if you need expert guidance on adopting DevOps practices, feel free to reach out. I'm available for consulting, training, and speaking engagements.
+###
 
-- [Buy Me a Coffee](https://buymeacoffee.com/namdevrathod)
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=namdev-rathod&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 
 Thank you for visiting my GitHub profile! Let's build something incredible together. 🚀 🙌
