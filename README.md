@@ -1,6 +1,6 @@
 # 👋 Welcome to DevOps With Namdev
 
-📹 **YouTube**: [Subscribe to my channel](https://www.youtube.com/@namdev.devops)
+📹 **Subscribe To My YouTube Channel**
 
 <!---
 ![image](https://github.com/user-attachments/assets/e81682e2-714d-4b50-a341-0ad69404cd6e)
