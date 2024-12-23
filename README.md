@@ -2,10 +2,39 @@
 
 📹 **YouTube**: [Subscribe to my channel](https://www.youtube.com/@namdev.devops)
 
+<!---
 ![image](https://github.com/user-attachments/assets/e81682e2-714d-4b50-a341-0ad69404cd6e)
+--->
 
+<img align="left" height="150" src="https://github.com/user-attachments/assets/b03da014-1ecb-46b6-bb33-4a2392ef270e"  />
 
-## 🧑‍💻 About Me
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/namdevrathod/">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+   <a href="https://www.youtube.com/@namdev.devops">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+   </a>
+  <a href="https://www.youtube.com/@devopswithnamdev">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+</div>
+    
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=namdev-rathod.namdev-rathod&"  />
+</div>
+
+###
+
+###
+
+<h1 align="left">🧑‍💻 About Me</h1>
+
+###
+
 I am a seasoned **DevOps Engineer** with extensive experience in designing, automating, and optimizing modern infrastructures. My journey in the IT industry has been marked by a passion for continuous improvement, seamless integration, and driving business success through reliable and scalable solutions.
 
 - 🔥 **Years of Experience**: Over 13+ years of hands-on experience in the DevOps & SRE field.
