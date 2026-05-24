@@ -35,7 +35,7 @@
 
 I am a seasoned **DevOps Engineer** with extensive experience in designing, automating, and optimizing modern infrastructures. My journey in the IT industry has been marked by a passion for continuous improvement, seamless integration, and driving business success through reliable and scalable solutions.
 
-- 🔥 **Years of Experience**: Over 13+ years of hands-on experience in the DevOps & SRE field.
+- 🔥 **Years of Experience**: Over 15+ years of hands-on experience in the DevOps & SRE field.
 - 🌐 **Expertise**: Specializing in cloud computing, CI/CD pipelines, automation, container orchestration, Infra management and infrastructure as code (IaC).
 - 🎯 **Mission**: To bridge the gap between development and operations, ensuring the delivery of high-quality software at a faster pace.
 
